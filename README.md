@@ -69,5 +69,8 @@ Les requêtes et réponses sont échangées au format JSON grâce à **Spring We
 
 1. **Cloner le Repository** :  
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repository.git
-   cd nom-du-repository
+   git clone git@github.com:IrALm/API-E-Commerce.git
+   cd API-E-Commerce
+   mvn clean install
+   mvn spring-boot:run
+
