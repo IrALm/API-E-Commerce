@@ -1,0 +1,5 @@
+com/backend/api/service/CategorieService.class
+com/backend/api/ApiApplication.class
+com/backend/api/controller/CategorieController.class
+com/backend/api/model/Categorie.class
+com/backend/api/repository/CategorieRepository.class
