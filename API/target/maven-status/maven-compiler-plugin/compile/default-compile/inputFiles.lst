@@ -1,0 +1,6 @@
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/ApiECommerceApplication.java
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/controller/GlobalExceptionHandler.java
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/controller/ProduitController.java
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/model/Produit.java
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/repository/ProduitRepository.java
+/home/moiseal/Full-stack/Back-end/Java/Springboot/API E-commerce/API-E-commerce/src/main/java/com/backend/API/E_commerce/service/ProduitService.java

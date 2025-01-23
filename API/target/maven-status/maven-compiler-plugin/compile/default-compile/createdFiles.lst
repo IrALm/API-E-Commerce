@@ -1,0 +1,6 @@
+com/backend/API/E_commerce/service/ProduitService.class
+com/backend/API/E_commerce/repository/ProduitRepository.class
+com/backend/API/E_commerce/ApiECommerceApplication.class
+com/backend/API/E_commerce/controller/ProduitController.class
+com/backend/API/E_commerce/controller/GlobalExceptionHandler.class
+com/backend/API/E_commerce/model/Produit.class
